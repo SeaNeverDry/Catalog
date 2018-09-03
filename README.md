@@ -132,7 +132,7 @@ Version 1.0
 
 ----------
 
-* Patricia Nzouonta 
+* Patricia N.
 
 * Contributors: None 
 
